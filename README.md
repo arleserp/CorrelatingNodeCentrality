@@ -6,9 +6,9 @@ The failure simulator and the self-healing algorithm is implemented in Java at t
 
 ## Structure of project 
 
-* Carpeta network_specs
+# Network_specs folder
 
-La estructura del proyecto contiene en primer lugar la información de las características de cada nodo en las redes seleccionadas con respecto a:
+The project tree contains information about the properties of each node in the selected networks:
 
 - closnesscentrality
 - eigenvectorcentrality
