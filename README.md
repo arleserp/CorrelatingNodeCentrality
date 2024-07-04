@@ -6,7 +6,7 @@ The failure simulator and the self-healing algorithm is implemented in Java at t
 
 ## Structure of project 
 
-# Network_specs folder
+### Network_specs folder
 
 The project tree contains information about the properties of each node in the selected networks:
 
