@@ -37,3 +37,18 @@ Addition of global information related to:
 - StdDev Degree
 - Diameter: 5.0
 
+Experiments organisation:
+
+Due to long size of experiment files they are located in the following links:
+
+Experiment without self-healing (folder exp_0_without_selfhealing): To evaluate the impact of node failures on the networks being tested, we conducted an initial experiment without using the self-healing function. We applied a node failure rate of 𝑝𝑓=0.25.
+
+Experiment minimum number of hops: (folder exp_1_minimum_number_of_hops): The initial experiments aim to determine the minimum number of hops needed to restore a specific network topology. Each node is initially informed about its neighboring nodes within n hops. The probability of node failure at each step is set to 𝑝𝑓=0.25 and 𝑝𝑓=0.125
+
+Memory hop estimation (folder exp_1_2_memory_hop_size_estimation): 
+From these results, we could estimate the resource savings (such as memory) achieved by self-healing, which only needs local topology information instead of the entire network. Memory usage is measured in kilobytes and represents the serialisation of topology data for all nodes.
+
+Experiment 2 (folder exp_2_correlation_centrality_vs_node_failure): correlation between centrality metrics and node failure
+
+
+
