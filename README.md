@@ -23,3 +23,17 @@ The folder contains information about the properties of each node in the selecte
 
 
 
+[Network_global_specs folder](https://github.com/arleserp/CorrelatingNodeCentrality/tree/main/network_global_specs)
+
+Addition of global information related to:
+
+- number of vertices
+- number of edges
+- Average Path Length
+- Clustering coeficients
+- Average Clustering Coefficient
+- Average degree
+- StdDev Average Path Length
+- StdDev Degree
+- Diameter: 5.0
+
