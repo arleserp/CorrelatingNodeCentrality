@@ -1,0 +1,11 @@
+number of vertices14
+number of edges15
+Average Path Length: 2.681318681318681
+Clustering coeficients:{rabbitmq=0.0, payment=0.0, orders-db=0.0, queue-master=0.0, orders=0.13333333333333333, carts=0.3333333333333333, router=0.0, shipping=0.0, user=0.3333333333333333, catalogue-db=0.0, user-db=0.0, carts-db=0.0, catalogue=0.0, front_end=0.2}
+Average Clustering Coefficient: 0.07142857142857142
+Average degree: 2.142857142857143
+StdDev Average Path Length: 0.5948873901439091
+StdDev Degree: 1.6104057232283402
+Diameter: 6.0
+skew Betweeness centrality: 0.9823734197261501
+stdev Betweeness centrality: 0.1653957380192398

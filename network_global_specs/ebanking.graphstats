@@ -1,0 +1,11 @@
+number of vertices60
+number of edges73
+Average Path Length: 4.882485875706215
+Clustering coeficients:{checkServiceA=0.0, payments=0.0, paymentF=0.0, shipperB=0.0, investments=0.06666666666666667, b2bAPI=0.0, currency=0.0, sAdapterB=0.0, brokerC=0.0, regionB=0.0, funds=0.0, transactions=0.3333333333333333, Experian=0.0, gatewayAPI=0.09523809523809523, stocks=0.0, TransUnion=0.0, shipperD=0.0, reports=0.3333333333333333, sAdapterA=0.0, sAdapterC=0.0, paymentB=0.0, webAPI=0.0, paymentE=0.0, brokerD=0.0, products=0.5, account=0.2, mobileAPI=0.0, kyc=0.0, notifications=0.5, pAdapterF=0.0, news=1.0, pAdapterB=0.0, brokerA=0.0, pAdapterA=0.0, paymentA=0.0, scoring=0.0, orders=0.5, pAdapterC=0.0, offers=1.0, regionA=0.0, statistics=0.0, pAdapterD=0.0, paymentD=0.0, checkServiceD=0.0, shipperC=0.0, bonds=0.0, checkServiceE=0.0, shipperA=0.0, paymentC=0.0, brokerB=0.0, checkServiceF=0.0, pAdapterE=0.0, regionC=0.0, idCheck=0.0, brokerE=0.0, shippingAPI=0.06666666666666667, checkServiceC=0.0, brokerAPI=0.0, sAdapterD=0.0, checkServiceB=0.0}
+Average Clustering Coefficient: 0.07658730158730158
+Average degree: 2.433333333333333
+StdDev Average Path Length: 0.9495755155654848
+StdDev Degree: 2.0778628742758225
+Diameter: 9.0
+skew Betweeness centrality: 1.4223632558903883
+stdev Betweeness centrality: 0.08240820128801228
