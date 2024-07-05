@@ -6,6 +6,10 @@ The failure simulator and the self-healing algorithm is implemented in Java at t
 
 ## Structure of project 
 
+[selected_networks.gephi](https://github.com/arleserp/CorrelatingNodeCentrality/blob/main/selected_networks.gephi)
+
+Gephi especifications for each graph are here 
+
 [Network specs folder](https://github.com/arleserp/CorrelatingNodeCentrality/tree/main/network_specs)
 
 The folder contains information about the properties of each node in the selected networks:
