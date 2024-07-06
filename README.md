@@ -48,7 +48,8 @@ Experiment minimum number of hops: (file [exp_1_minimum_number_of_hops.zip](http
 Memory hop estimation (file [exp_1_2_memory_hop_size_estimation.zip](https://drive.google.com/file/d/1KwrVlhaBRWpTi9UFw62uEszEqMHlR5Pr/view?usp=sharing)): 
 From these results, we could estimate the resource savings (such as memory) achieved by self-healing, which only needs local topology information instead of the entire network. Memory usage is measured in kilobytes and represents the serialisation of topology data for all nodes.
 
-Experiment 2 (folder exp_2_correlation_centrality_vs_node_failure): correlation between centrality metrics and node failure
+Experiment 2 (file [exp_2_correlation_centrality_vs_node_failure.zip](https://drive.google.com/file/d/18eIH5rVXdC2TBnFzx8rB4s-bj1ywunK7/view?usp=drive_link)
+): correlation between centrality metrics and node failure
 
 
 
